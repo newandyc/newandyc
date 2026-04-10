@@ -27,16 +27,16 @@
     <h1>Animated Diagram of Cooperative Target-Pointing Control</h1>
     <div class="gif-links">
         <div class="gif-link">
-            <h2><a href="gif1.html">GIF 1</a></h2>
+            <h2><a href="cvgif1.html">CVGIF 1</a></h2>
         </div>
         <div class="gif-link">
-            <h2><a href="gif2.html">GIF 2</a></h2>
+            <h2><a href="gif2.html">CVGIF 2</a></h2>
         </div>
         <div class="gif-link">
-            <h2><a href="gif3.html">GIF 3</a></h2>
+            <h2><a href="cvgif3.html">CVGIF 3</a></h2>
         </div>
         <div class="gif-link">
-            <h2><a href="gif4.html">GIF 4</a></h2>
+            <h2><a href="cvgif4.html">CVGIF 4</a></h2>
         </div>
     </div>
 </body>
