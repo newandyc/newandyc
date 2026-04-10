@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My GIF Collection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .gif-links {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+        .gif-link {
+            margin: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Animated Diagram of Cooperative Target-Pointing Control</h1>
+    <div class="gif-links">
+        <div class="gif-link">
+            <h2><a href="gif1.html">GIF 1</a></h2>
+        </div>
+        <div class="gif-link">
+            <h2><a href="gif2.html">GIF 2</a></h2>
+        </div>
+        <div class="gif-link">
+            <h2><a href="gif3.html">GIF 3</a></h2>
+        </div>
+        <div class="gif-link">
+            <h2><a href="gif4.html">GIF 4</a></h2>
+        </div>
+    </div>
+</body>
+</html>
